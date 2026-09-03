@@ -4,7 +4,7 @@ This folder contains the data, calculations, figures, and written responses for 
 
 ## Files
 
-- `answer.ipynb` — written responses for Problems 1–5
+- ` assignment_1.pdf` — written responses for Problems 1–5
 - `problem1_code.ipynb` — sample moments and fitted-Normal tail comparison
 - `problem2_code.ipynb` — scatter plot; OLS, Normal-error MLE, and Student-t-error MLE; AICc and error-quantile comparisons
 - `problem3_code.ipynb` — pairwise scatter plots and Pearson/Spearman correlation comparisons
