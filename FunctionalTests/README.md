@@ -95,7 +95,7 @@ at 100,000 draws, scaled at the theoretical `1/sqrt(n)` rate for smaller runs.
 These checks test whether two independent Monte Carlo estimates are
 scientifically consistent; they do not replace or weaken the underlying model.
 
-## Quick calls for midterm/final
+## Quick calls example
 
 These are direct reusable calls, without running the functional-test harness:
 
