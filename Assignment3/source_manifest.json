@@ -1,0 +1,29 @@
+{
+  "instructor_commit": "5958d11b51960c18be98f6df2b97c4e80670fb2d",
+  "inputs": {
+    "problem1.csv": "a870695d6c756f4af335cb5c29b5cbab2fffeecd06929ca2c5f1a9356305abb3",
+    "problem3.csv": "4f7be87afc75c4f93f2c1a07b51a0ccb10879eac86168788e4ad943e1fb7f309",
+    "problem5.csv": "60235fcacc1491dcd37f677fcdce7dfa0e45e4241223eeafc4b6cdf305eaaaf9",
+    "problem4.csv": "0a6fc0024123a9e2133a92fc83c5bdaa634384a1baab754372e150d3e88c176c",
+    "Assignment 3.pdf": "e207345a2d133fff2d4bb8beb7ad5dcdb223c0cb962e01e355e3ae5c58dcbc81",
+    "F-F_Research_Data_Factors_daily.CSV": "bd5955d7425eb9b4dad6260d51de3c91974b46acd9d650607624e0385c363f65",
+    "problem3_portfolios.csv": "b27797b1d557d0188697bd82913671b225dc07a934ff823882ebdf65b7167d6c",
+    "F-F_Momentum_Factor_daily.CSV": "f6caf35fb7ee15934c621ecb8ed80d7d6eb30dbccde45aa36722ec63948a6336"
+  },
+  "existing_library": {
+    "simulation.py": "ee40b2915ed65bfc337c77183d060cab1c3f0e16084dedec490793e0fb1916d7",
+    "options.py": "e7af64c254918ee1995ce0ad6cf4fadf31540abdb2abf59486873975d7f766ae",
+    "risk_metrics.py": "ddde59c4cc9f817abc2205b86b1e6b6b751268b4df3d1df4e9c3972cb1f2acb4",
+    "plotting.py": "d8b1ee863cb5102ee07542db410ee90684d1cbf928d4be7275b3ab4a97e0e00b",
+    "covariance.py": "d32ba59d972b13dfa9641737e0b2878c7f63ced820db31a2cef11da47c7b0efc",
+    "__init__.py": "90bd353b8b5522f6dcfbb7c0e89f5c38c3070814537b7e9aeae47e3f29a44f53",
+    "returns.py": "da8a0e4f01d28696f7dfef5f6b1335388f9931f1ef80076e8494251ab957a7ee",
+    "distributions.py": "d322e26144edc4c9c006d1238763157a9f22ced92159a923a2f9aa754d6c5355",
+    "attribution.py": "12604bf99f9f59fe90041ac85a508875b9360d60587760f14e6ae581744519fb",
+    "factor_models.py": "0bd0c18b94a898b6cbd61fce61302799c3108b275d6a4ecfea6a548d3a91129e",
+    "multivariate.py": "ef5a6c335253c10c3d58ddb0ef99f86e313b08b14523538e524de367085f17d3",
+    "psd.py": "24eddaf43d9b64598a0c84d2f11949109ab899fe85544b39654b49232943aa99",
+    "statistics.py": "80d2644d642b3b875a89d848ae30004b684c9c7056dff2d22677e5fc1ac16c9e",
+    "portfolio.py": "f5440d000bd8c5189184aa654b82a62e710cb97960d24cabf2014b0ef2441190"
+  }
+}

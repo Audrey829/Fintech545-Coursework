@@ -1,0 +1,9 @@
+numpy>=1.24
+pandas>=1.5
+scipy>=1.10
+matplotlib>=3.7
+statsmodels>=0.14
+nbformat>=5.7
+nbconvert>=7
+ipykernel>=6
+ipython>=8
